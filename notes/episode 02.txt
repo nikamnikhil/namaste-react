@@ -1,0 +1,11 @@
+bundler - parcel,webpack,vite
+dependencies-- > dev vs normal dep
+caret (^) vs tilde (~)
+transitive dependencies- one package dependent on other packages
+in project lot of package.json files it is present in every package file in node modules
+whatever you regenerate do not put it on git ex. node modules
+put in git - package.json and packagelock.json
+npm vs npx => npm - if we just install any package & npx - if you want to exicute any package
+cdn links is not a good way to bring react and react dom into your project
+why- it will make other network call so it will becomes costlier job
+it is hard and keep track when react update any version - need to change cdn link

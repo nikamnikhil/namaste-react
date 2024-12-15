@@ -18,3 +18,28 @@
 -HTTPS support
 -Tree shaking - remove unused code from files
 -Different dev and Production builds
+
+/*Header
+ -local
+ -Nav Item 
+Body 
+ -Search
+ -Restaurant container 
+  -Restaurant Cards
+    -Image
+    -Name of res,Star rating,cuisine,delivery time 
+Footer
+ -copyright
+ -links
+ -address
+ -contact
+*/
+
+# Two types of import/exports
+Named Imports/Export =>  {}
+Default Import/Export 
+
+# Hooks
+Normal JS utility functions
+-useState() - Superpower local state variable in react
+-useEffect()
